@@ -13,6 +13,4 @@ Section.propTypes = {
   title: PropTypes.string,
 };
 
-const rss = false;
-console.log(rss);
 export default Section;
